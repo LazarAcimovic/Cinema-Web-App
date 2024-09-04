@@ -1,0 +1,39 @@
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.example-container {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  border: 1px solid black;
+  display: flex;
+}
+
+.mat-button {
+  text-align: left;
+  display: block;
+}
+
+.main-content {
+  flex-grow: 1;
+  padding: 20px;
+  margin-left: 250px;
+}
+
+.author-content {
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.author-content h1 {
+  margin-top: 0;
+}
+
+.author-content p {
+  line-height: 1.6;
+}
