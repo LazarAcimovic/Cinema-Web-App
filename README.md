@@ -15,13 +15,7 @@ In this step, we're starting the backend part and database get filled with data
    ![image](https://github.com/user-attachments/assets/8d24e096-f12c-411f-ba23-76b8682e83cf)
 
 
-Speaking of app itself, I will show simple add command. Everything else is straightforward.
-
-
-![image](https://github.com/user-attachments/assets/1777b9c3-737a-4a25-8a53-bb335fc18d8d)
-![image](https://github.com/user-attachments/assets/1c4dad3d-807b-469e-8242-805c1381565f)
-
-
+Speaking of app itself, I will attach a short video to show the basic functionalities.
 
 https://github.com/user-attachments/assets/141c77c8-d5e8-4ad6-8135-21a8a59a9d81
 
