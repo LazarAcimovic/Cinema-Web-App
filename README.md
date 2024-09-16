@@ -21,3 +21,7 @@ Speaking of app itself, I will show simple add command. Everything else is strai
 ![image](https://github.com/user-attachments/assets/1777b9c3-737a-4a25-8a53-bb335fc18d8d)
 ![image](https://github.com/user-attachments/assets/1c4dad3d-807b-469e-8242-805c1381565f)
 
+
+
+https://github.com/user-attachments/assets/141c77c8-d5e8-4ad6-8135-21a8a59a9d81
+
