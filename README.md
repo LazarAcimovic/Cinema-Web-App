@@ -17,5 +17,9 @@ In this step, we're starting the backend part and database get filled with data
 
 Speaking of app itself, I will attach a short video to show the basic functionalities.
 
-https://github.com/user-attachments/assets/141c77c8-d5e8-4ad6-8135-21a8a59a9d81
+
+
+
+https://github.com/user-attachments/assets/f6fe6e97-66de-4203-be5f-9d04647953b4
+
 
