@@ -2,9 +2,9 @@
 Cinema Web App
 
 ## Technologies
-Frontend: Angular
-Backend: Spring Boot
-Database: PostgreSQL
+**Frontend**: Angular
+**Backend**: Spring Boot
+**Database**: PostgreSQL
 
 ## Description
 Developed a scalable web app using Angular, Spring Boot, and PostgreSQL, enabling cinema
